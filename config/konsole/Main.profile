@@ -1,6 +1,6 @@
 [Appearance]
 BorderWhenActive=false
-ColorScheme=Campell Color
+ColorScheme=Sombra
 Font=Source Code Pro,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 UseFontLineChararacters=true
 
