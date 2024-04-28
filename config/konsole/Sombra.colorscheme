@@ -8,67 +8,67 @@ Color=0,0,0
 Color=12,12,12
 
 [Color0]
-Color=139,139,139
+Color=0,0,0
 
 [Color0Faint]
-Color=168,170,170
+Color=192,192,192
 
 [Color0Intense]
-Color=125,125,125
+Color=104,104,104
 
 [Color1]
-Color=238,100,9
+Color=197,15,31
 
 [Color1Faint]
-Color=116,48,38
+Color=250,0,0
 
 [Color1Intense]
-Color=248,74,15
+Color=231,72,86
 
 [Color2]
-Color=4,216,201
+Color=19,161,14
 
 [Color2Faint]
-Color=10,192,192
+Color=142,224,142
 
 [Color2Intense]
-Color=7,192,186
+Color=22,198,12
 
 [Color3]
-Color=31,143,206
+Color=178,104,24
 
 [Color3Faint]
-Color=26,101,143
+Color=224,224,142
 
 [Color3Intense]
-Color=60,138,221
+Color=249,241,165
 
 [Color4]
-Color=140,100,206
+Color=125,152,35
 
 [Color4Faint]
-Color=96,74,114
+Color=125,152,35
 
 [Color4Intense]
-Color=151,47,255
+Color=157,188,43
 
 [Color5]
-Color=0,197,191
+Color=136,23,152
 
 [Color5Faint]
-Color=39,161,174
+Color=175,29,175
 
 [Color5Intense]
-Color=18,207,201
+Color=180,0,158
 
 [Color6]
-Color=15,223,161
+Color=0,55,218
 
 [Color6Faint]
-Color=36,218,134
+Color=0,98,173
 
 [Color6Intense]
-Color=24,250,174
+Color=59,120,255
 
 [Color7]
 Color=255,255,255
@@ -92,7 +92,7 @@ Color=242,242,242
 Anchor=0.5,0.5
 Blur=true
 ColorRandomization=false
-Description=Campell Color
+Description=
 FillStyle=Tile
 Opacity=0.7
 Wallpaper=

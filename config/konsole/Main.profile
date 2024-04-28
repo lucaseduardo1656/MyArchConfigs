@@ -6,7 +6,7 @@ UseFontLineChararacters=true
 
 [General]
 Icon=alienarena
-Name=Led
+Name=Sombra
 Parent=FALLBACK/
 
 [Scrolling]
