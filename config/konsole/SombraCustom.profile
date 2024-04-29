@@ -1,12 +1,12 @@
 [Appearance]
 BorderWhenActive=false
-ColorScheme=Sombra
+ColorScheme=SombraVibrantPurple
 Font=Source Code Pro,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 UseFontLineChararacters=true
 
 [General]
 Icon=alienarena
-Name=Sombra
+Name=SombraCustom
 Parent=FALLBACK/
 
 [Scrolling]

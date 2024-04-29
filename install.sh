@@ -31,13 +31,15 @@ sudo cp ./config/pacman.conf /etc/pacman.conf
 sudo cp ./config/neofetch/config.conf ~/.config/neofetch/config.conf
 sudo cp ./config/neofetch/logo ~/.config/neofetch/logo
 sudo cp ./config/bash/.bashrc ~/.bashrc
-sudo cp ./config/konsole/Sombra.colorsheme /usr/share/konsole/Sombra.colorsheme
-sudo cp ./config/konsole/Sombra.colorsheme /usr/share/konsole/Sombra.colorsheme
-
+sudo cp ./config/konsole/SombraBlue.colorscheme ~/.local/share/konsole/SombraBlue.colorscheme
+sudo cp ./config/konsole/SombraGreen.colorscheme ~/.local/share/konsole/SombraGreen.colorscheme
+sudo cp ./config/konsole/SombraPurple.colorscheme ~/.local/share/konsole/SombraPurple.colorscheme
+sudo cp -p ./config/konsole/SombraVibrantPurple.colorscheme ~/.local/share/konsole/SombraVibrantPurple.colorscheme
+sudo cp -p ./config/konsole/SombraCustom.profile ~/.local/share/konsole/SombraCustom.profile
 
 #Install yay
 echo "install yay"
-sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+##sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
 
 echo "Intalation Complete"
 notify-send "Intalation Complete"
